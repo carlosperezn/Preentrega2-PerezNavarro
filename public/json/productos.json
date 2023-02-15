@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "idCategoria": 1,
+    "nombre": "Consola Semi-Profesional",
+    "marca": "Pioneer",
+    "modelo": "SB3",
+    "precio": 300,
+    "stock": 30,
+    "img": "sb3.png"
+  },
+  {
+    "id": 2,
+    "idCategoria": 2,
+    "nombre": "Diadema Prof. Pioneer",
+    "marca": "Pioneer",
+    "modelo": "HDJ-X5-k",
+    "precio": 1000,
+    "stock": 10,
+    "img": "diadema1.png"
+  },
+  {
+    "id": 3,
+    "idCategoria": 3,
+    "nombre": "USB 64 GB",
+    "marca": "Pioneer",
+    "modelo": "64 GB 3.0",
+    "precio": 200,
+    "stock": 15,
+    "img": "usb1.png"
+  },
+  {
+    "id": 4,
+    "idCategoria": 4,
+    "nombre": "Sintetizador DJ",
+    "marca": "Novation",
+    "modelo": "Novation Circuit",
+    "precio": 600,
+    "stock": 10,
+    "img": "sinth1.png"
+  },
+  {
+    "id": 5,
+    "idCategoria": 4,
+    "nombre": "Sintetizador analogo",
+    "marca": "Pioneer",
+    "modelo": "Torsaiz AS-1",
+    "precio": 1000,
+    "stock": 10,
+    "img": "sinth2.png"
+  },
+  {
+    "id": 6,
+    "idCategoria": 4,
+    "nombre": "Caja de ritmos profesional",
+    "marca": "Roland",
+    "modelo": "Tr-8",
+    "precio": 2000,
+    "stock": 5,
+    "img": "sinth3.png"
+  },
+  {
+    "id": 7,
+    "idCategoria": 2,
+    "nombre": "Diadema Prof. Behringer",
+    "marca": "Behringer",
+    "modelo": "BDJ 1000",
+    "precio": 1200,
+    "stock": 20,
+    "img": "diadema2.png"
+  },
+  {
+    "id": 8,
+    "idCategoria": 3,
+    "nombre": "USB 128 GB",
+    "marca": "Pioneer",
+    "modelo": "128 Gb 3.0",
+    "precio": 400,
+    "stock": 30,
+    "img": "usb2.png"
+  },
+  {
+    "id": 9,
+    "idCategoria": 4,
+    "nombre": "Sintetizador tipo Piano",
+    "marca": "Yamaha",
+    "modelo": "Mx-61",
+    "precio": 1100,
+    "stock": 8,
+    "img": "sinth4.png"
+  },
+  {
+    "id": 10,
+    "idCategoria": 1,
+    "nombre": "Consola RX",
+    "marca": "Pioneer",
+    "modelo": "RX3",
+    "precio": 3000,
+    "stock": 25,
+    "img": "rx3.png"
+  },
+  {
+    "id": 11,
+    "idCategoria": 2,
+    "nombre": "Diadema Prof. Pioneer 2",
+    "marca": "Pioneer",
+    "modelo": "HDJ Cue 1",
+    "precio": 1400,
+    "stock": 5,
+    "img": "diadema3.png"
+  },
+  {
+    "id": 12,
+    "idCategoria": 1,
+    "nombre": "Tocadisco Profesional",
+    "marca": "Pioneer",
+    "modelo": "CDJ 3000",
+    "precio": 6000,
+    "stock": 10,
+    "img": "cdj.png"
+  }
+]
